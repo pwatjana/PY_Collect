@@ -28,3 +28,5 @@ print(machines.head().to_markdown(index=False, numalign="left", stralign="left")
 
 # Print the column names and their data types of machines
 print(machines.info())
+
+
